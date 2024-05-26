@@ -1,38 +1,59 @@
-<!--
-### - ⚡ Zdarova 👋  
-<p align='center'>
-  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<br clear="both">
+
+<div align="center">
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
+
+<h2 align="left">Обо мне 👨‍💻</h2>
+<p>Привет ! 👋 Меня зовут Роман Алексеевич и я Python Backend Developer вот уже несколько лет. С огромным удовольствием изучаю новые технологии и оттачиваю мастерство в уже изученных. С любовью подхожу к каждому своему проекту и стараюсь довести все до идеала.
 </p>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/teuchezh/count.svg" />
+<h3 align="left">Мой стэк 🔧</h3>
+<div align="left">
+  <!-- Языки программирования -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" height="40" alt="qt logo" />
+  <img width="12" />
+  
+  <!-- Фреймворки -->
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" alt="django logo" />
+  <img width="12" />
+  
+  <!-- СУБД -->
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="mssql logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40" alt="sqlite logo" />
+  <img width="12" />
+  
+  <!-- Инструменты разработки и тестирования -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" />
+</div>
+
+
+###
+<h3 align="left">Моя статистика 🔥 </h3>
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=menma331&theme=dracula" alt="menma331" /></p>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=menma331&show_icons=true&locale=en&theme=dracula" alt="menma331" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=menma331&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="170" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">Контакты 📱</h3>
+<p align="left">
+<a href="https://t.me/menma331" target="_blank">
+  <img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" height="50" width="50" />
+<a href="https://linkedin.com/in/sysa-roman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sysa-roman" height="30" width="40" />
 </p>
-<p align="center">
-<a href="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing?open">
-    <img src="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing" width="512" height="128">
-</a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teuchezh&count_private=true&show_icons=true&theme=buefy" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menma331&layout=compact&theme=buefy" />
-</p>
 
 
-[![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teuchezh&count_private=true&show_icons=true&theme=buefy)](https://github.com/teuchezh)
-[![teuchezh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=teuchezh&layout=compact&theme=buefy)](https://github.com/teuchezh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuchezh&layout=compact&theme=buefy)](https://github.com/teuchezh)
--->
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
-[<img align="left" width="400" alt="if you see this, it means my metrics are not working" src="https://github.com/teuchezh/teuchezh/blob/main/github-metrics.svg">](https://github.com/teuchezh/teuchezh)
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z88g2ishnobkjgkwo6k3yumb4&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=z88g2ishnobkjgkwo6k3yumb4&redirect=true) -->
-
-<!-- [<img align="right" width="350" height="auto" alt="if you see this, it means my metrics are not working" src="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing">](https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing?open) -->
-
-![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
