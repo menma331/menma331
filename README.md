@@ -51,7 +51,7 @@
 
 <h3 align="left">Контакты 📱</h3>
 <p align="left">
-<a href="https://t.me/menma331" target="_blank">
+<a href="https://t.me/azirafiele" target="_blank">
   <img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" height="50" width="50" />
 <a href="https://linkedin.com/in/sysa-roman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sysa-roman" height="30" width="40" />
 </p>
