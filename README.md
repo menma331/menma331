@@ -28,6 +28,8 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo" />
   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" height="40" alt="redis logo" />
+  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40" alt="sqlite logo" />
   <img width="12" />
   
