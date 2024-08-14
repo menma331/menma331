@@ -18,6 +18,8 @@
   <!-- Фреймворки -->
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" alt="django logo" />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/fastapi-icon.svg" height="40" alt="fastapi logo" />
+  <img width="12" />
   
   <!-- СУБД -->
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="mssql logo" />
