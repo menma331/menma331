@@ -10,7 +10,7 @@
 <h3 align="left">Мой стэк 🔧</h3>
 <div align="left">
   <!-- Языки программирования -->
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,mysql,rabbitmq,git,docker" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,mysql,redis,rabbitmq,mongodb,docker,git,gitlab,linux" />
   <img width="12" />
 
 
