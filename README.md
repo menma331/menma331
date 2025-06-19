@@ -12,11 +12,9 @@
   <!-- Языки программирования -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" height="40" alt="qt logo" />
-  <img width="12" />
   
   <!-- Фреймворки -->
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" alt="django logo" />
+  <img src="<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />" height="40" alt="django logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/fastapi-icon.svg" height="40" alt="fastapi logo" />
   <img width="12" />
@@ -37,6 +35,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" />
+  <img src="https://skillicons.dev/icons?i=all"
 </div>
 
 
