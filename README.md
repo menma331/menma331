@@ -10,33 +10,8 @@
 <h3 align="left">Мой стэк 🔧</h3>
 <div align="left">
   <!-- Языки программирования -->
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,mysql,rabbitmq,git,kubernetes,docker,c,vim" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,mysql,rabbitmq,git,docker" />
   <img width="12" />
-  
-  <!-- Фреймворки -->
-  <img src="<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />" height="40" alt="django logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/fastapi-icon.svg" height="40" alt="fastapi logo" />
-  <img width="12" />
-  
-  <!-- СУБД -->
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="mssql logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" height="40" alt="redis logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40" alt="sqlite logo" />
-  <img width="12" />
-  
-  <!-- Инструменты разработки и тестирования -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" />
-</div>
 
 
 ###
