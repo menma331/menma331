@@ -10,6 +10,7 @@
 <h3 align="left">Мой стэк 🔧</h3>
 <div align="left">
   <!-- Языки программирования -->
+  <img src="<img src="https://skillicons.dev/icons?i=python, django, fastapi, postgresql, mysql, rabbitmq, git,kubernetes,docker,c,vim" />" height="40" alt="django logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   
@@ -35,7 +36,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" />
-  <img src="https://skillicons.dev/icons?i=all"
 </div>
 
 
